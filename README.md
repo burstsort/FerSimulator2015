@@ -1,7 +1,9 @@
 FER Simulator 2015
 ==============
 
-Application develped as part of thesis on the design of complex virtual interiors.
+Application developed as part of thesis on the design of complex virtual interiors.
+
+Demo video: https://youtu.be/gyny_WDKXVs
 
 Executable can be downloaded here: https://mega.nz/#F!mRxWjDLY!nzDdlbay1NWfRH05C0CY4A
 
