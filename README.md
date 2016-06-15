@@ -3,6 +3,10 @@ FER Simulator 2015
 
 Application developed as part of thesis on the design of complex virtual interiors.
 
+Made with Unreal Engine 4.7
+
+Models made with Blender
+
 Demo video: https://youtu.be/gyny_WDKXVs
 
 
