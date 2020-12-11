@@ -12,7 +12,7 @@ Demo video: https://youtu.be/gyny_WDKXVs
 
 [![DEMO VIDEO HERE](https://img.youtube.com/vi/gyny_WDKXVs/0.jpg)](https://www.youtube.com/watch?v=gyny_WDKXVs)
 
-Executable can be downloaded here: https://mega.nz/#F!mRxWjDLY!nzDdlbay1NWfRH05C0CY4A
+Executable can be downloaded here: https://mega.nz/file/SAwj3A6C#VRUlMJlOiWcTdnjfvN0GiOrPlkSvZZ6i0wwSK4rPdYc
 
 VR version available here: https://github.com/burst149/FerSimulator2015VR
 
